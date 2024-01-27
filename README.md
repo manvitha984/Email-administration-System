@@ -1,2 +1,2 @@
 # Email-administration-System
-An email administration system in Java facilitates efficient management and organization of emails, providing features such as composing, sending, receiving, and organizing emails within a user-friendly interface. It leverages Java's robust capabilities to ensure secure communication and seamless email handling.
+This Java program creates an email administration system featuring classes for email, inbox, contacts, and email generation. It allows users to manage emails, contacts, change passwords, and customize mailbox capacities, providing a user-friendly interface for these functionalities. The program demonstrates basic object-oriented principles and user interaction in an email administration context.
